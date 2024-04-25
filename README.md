@@ -47,4 +47,4 @@ Double click the `run.sh` script or open it in the terminal via `./run.sh` with 
 Double click the `run.bat` script
 
 ## Bug Reporting
-We have migrated to GitHub Issues for bug reporting and tracking. We no longer review bug reports from the retired Google Form.
+For Mousegen, feel free to message capySTARa in the offical clangen discord
